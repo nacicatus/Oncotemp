@@ -15,8 +15,8 @@ Supported Oregon Scientific Weather Station: EMR211 and RAR218HG (and probably B
 python bleWeatherStation.py [mac-address]
 
 ## Dependencies:
--Bluetooth 4.1 and bluez installed
--bluepy library (https://github.com/IanHarvey/bluepy)
+- Bluetooth 4.1 and bluez installed
+- bluepy library (https://github.com/IanHarvey/bluepy)
 
 ## License: 
 Released under an MIT license: http://opensource.org/licenses/MIT
