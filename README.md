@@ -1,10 +1,8 @@
 # Oncotemp
 
-## This script was originally created by 
-## Arnaud Balmelle
-
-# Connect to Oregon Scientific BLE Weather Station
-Copyright (c) 2016 Arnaud Balmelle
+This script was originally created by 
+*Arnaud Balmelle * to connect to Oregon Scientific BLE Weather Station
+***Copyright (c) 2016 Arnaud Balmelle ***
 
 This script will connect to Oregon Scientific BLE Weather Station
 and retrieve the temperature of the base and sensors attached to it.
@@ -12,11 +10,12 @@ If no mac-address is passed as argument, it will scan for an Oregon Scientific B
 
 Supported Oregon Scientific Weather Station: EMR211 and RAR218HG (and probably BAR218HG)
 
-## Usage: python bleWeatherStation.py [mac-address]
+## Usage: 
+python bleWeatherStation.py [mac-address]
 
 ## Dependencies:
-# - Bluetooth 4.1 and bluez installed
-# - bluepy library (https://github.com/IanHarvey/bluepy)
+-Bluetooth 4.1 and bluez installed
+-bluepy library (https://github.com/IanHarvey/bluepy)
 
 ## License: 
 Released under an MIT license: http://opensource.org/licenses/MIT
